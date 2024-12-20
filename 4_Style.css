@@ -1,0 +1,95 @@
+header {
+    text-align: center;
+}
+
+form {
+    margin-left: 200px;
+    font-family: 'Signika';
+    color: #0d6db7;
+    text-align: left;
+    font-size:small;
+}
+option{
+    color: grey;
+}
+label{
+    margin-right: 410px;
+    /* margin-bottom: 10px; */
+}
+
+#ser {
+    color: rgba(97, 95, 95, 0.76);
+    /* font-family: 'Open Sans'; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:13px;;
+    font-weight: 500;
+}
+button{
+    background-color: #0d6db7;
+    font-family: 'Open Sans';
+    color: white;
+    width: 1000px;
+    height: 43px;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 45px;
+    border-radius: 8px;
+    border-color:#0d6db7;
+}
+.idchk{
+    margin-left: 140px;
+    width: 700px;
+}
+input{
+    height: 49px;
+    width: 505px;
+    color:#000;
+    border-radius: 5px;
+    border-color: rgba(113, 170, 28, 0.719);
+    border-width: 1px;
+    border-style:groove;
+    margin-right: 20px;
+}
+select{
+    height: 56px;
+    width: 511px;
+    color:#000;
+    border-radius: 5px;
+    border-color: rgba(113, 170, 28, 0.719);
+    border-width: 1px;
+    border-style:groove;
+    margin-right: 20px;
+    margin-top: 10px;
+
+}
+#pic{
+    border-style: dashed;
+    width: 92px;
+    height: 90px;
+}
+#file{
+    width: 400px;
+    color: #000;
+}
+li{
+    text-align: left;
+    color: #000;
+    margin-left: 0px;
+}
+.fwidth{
+    height: 49px;
+    width: 1040px;
+    color:#000;
+    border-radius: 5px;
+    border-color: rgba(113, 170, 28, 0.719);
+    border-width: 1px;
+    border-style:groove;
+    margin-right: 20px;
+}
+hr{
+       margin-left: 0px;
+        width: 1052px; 
+        border: none;              
+        height: 1px;                
+        background-color: #d7d8d7de; 
+}
